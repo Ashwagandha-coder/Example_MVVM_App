@@ -9,3 +9,4 @@
 ![clean_architecture_clean_way_layers](https://user-images.githubusercontent.com/58209188/173197194-46f3a8f0-4845-4f6e-afc3-756e03a8ed78.png)
 
 - Стрлками показаны зависимости
+
